@@ -4,7 +4,7 @@
 <p align="left">
 Internationalization library implemented by go language
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/tigateam/tigago/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/></a>
   <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
   <a href="https://github.com/tigateam/tigago"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/></a>
